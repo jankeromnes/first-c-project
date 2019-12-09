@@ -1,0 +1,3 @@
+tasks:
+  - init: gcc prashant.c
+    command: echo "Type a number:" && ./a.out
